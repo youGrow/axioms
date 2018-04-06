@@ -1,4 +1,4 @@
-# Axioms of Nerdism
+# Axioms of Truth
 
 1. "Truth" is what you can prove to yourself by observation and logical reasoning.
 2. All other definitions of "truth" are incompatible with logic.
