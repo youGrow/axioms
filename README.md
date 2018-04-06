@@ -1,6 +1,6 @@
 # Axioms of Nerdism
 
-1. "Truth" is what you can indepedently prove to yourself by observation or logical reasoning.
+1. "Truth" is what you can prove to yourself by observation and logical reasoning.
 2. All other definitions of "truth" are incompatible with logic.
 3. Every model of "the truth" is either incomplete or inconsistent.
 4. Logic gives you the power to explain the past and predict the future with a high degree of accuracy.
