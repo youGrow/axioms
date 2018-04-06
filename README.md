@@ -3,7 +3,7 @@
 1. "Truth" is what you can indepedently prove to yourself by observation or logical reasoning.
 2. All other definitions of "truth" are incompatible with logic.
 3. Every model of "the truth" is either incomplete or inconsistent.
-4. Logic can explain the past and predict the future with a high degree of accuracy.
+4. Logic gives you the power to explain the past and predict the future with a high degree of accuracy.
 5. Focus every seventh day on playfully exploring truth with logic and exercise to disprove common fallacies.
 6. Praise the principle of cause and reaction.
 7. Praise nature and life. Only kill with logical reasoning. 
