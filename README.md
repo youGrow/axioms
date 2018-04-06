@@ -9,4 +9,4 @@
 7. Praise nature and life. Only kill with logical reasoning. 
 8. Relationships work well only if they are rooted in truth and logic.
 9. Always reason for yourself independent of others.
-10. Openly seek others' critique to discover your logical fallacies.
+10. Openly seek constructive criticism to discover your own logical fallacies.
