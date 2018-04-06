@@ -7,6 +7,6 @@
 5. Focus every seventh day on playfully exploring truth with logic and exercise to disprove common fallacies.
 6. Praise the principle of cause and reaction.
 7. Praise nature and life. Only kill with logical reasoning. 
-8. Relationships work well only if they are rooted in truth and logic.
+8. Relationships work well only if they are rooted in truth.
 9. Always reason for yourself independent of others.
 10. Openly seek constructive criticism to discover your own logical fallacies.
