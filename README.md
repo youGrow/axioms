@@ -8,5 +8,5 @@
 6. Praise the principle of cause and reaction.
 7. Praise the truths of nature and life. Memento Mori. Carpe Diem. Only kill with logical reasoning. 
 8. Relationships work well only if they are rooted in truth, because in the long run the truth always imprints obvious  reactions.
-9. Always reason for yourself independent of others.
+9. Always reason for yourself independently of others.
 10. Openly seek constructive criticism to discover your own logical fallacies.
